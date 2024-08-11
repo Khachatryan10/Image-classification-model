@@ -1,3 +1,3 @@
-##Image classification model in TensorFlow.
-###93% training accuracy.
-###88% validation accuracy.
+Image classification model in TensorFlow. <br />
+93% training accuracy.<br />
+88% validation accuracy.
